@@ -15,13 +15,14 @@ The tool includes:
 ## 🗂 **Project Structure**
 ```
 🗁 Social Media Performance Analysis Tool
-🗋 dataset.csv                      # Mock dataset of social media engagement
-🗋 generate_dataset.py              # Python script to generate the dataset
-🗁 Insta_Insightify_version_01      # Initial version of the analysis tool
-🗁 Insta_Insightify_version_02      # Enhanced version of the analysis tool
-🗁 website                          # Code for the website interface
-🗋 README.md                        # Project documentation
-🗋 requirements.txt                 # Python dependencies
+   🗋   dataset.csv                      # Mock dataset of social media engagement
+   🗋   generate_dataset.py              # Python script to generate the dataset
+   🗁  Insta_Insightify_version_01      # Initial version of the analysis tool
+   🗁  Insta_Insightify_version_02      # Enhanced version of the analysis tool
+   🗁  Insta_Insightify_version_03      # Upgraded version with edge case handling.
+   🗁  website                          # Code for the website interface
+   🗋   README.md                        # Project documentation
+   🗋   requirements.txt                 # Python dependencies
 ```
 
 ---
