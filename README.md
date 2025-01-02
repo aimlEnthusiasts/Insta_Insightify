@@ -1,7 +1,7 @@
-# Social Media Performance Analysis Tool
+# Social Media Performance Analysis Tool - Insta Insightify
 
 ## 📋 **Overview**
-The **Social Media Performance Analysis Tool** is designed to analyze social media engagement data, providing actionable insights to improve content strategies. This project was developed as part of a pre-hackathon assignment for the Level Supermind Hackathon.
+The **Insta Insightify** is designed to analyze social media engagement data, providing actionable insights to improve content strategies. This project was developed as part of a pre-hackathon assignment for the Level Supermind Hackathon.
 
 The tool includes:
 - A dataset simulating social media engagement metrics.
@@ -14,7 +14,7 @@ The tool includes:
 
 ## 🗂 **Project Structure**
 ```
-🗁 Social Media Performance Analysis Tool
+🗁 Insta Insightify
    🗋   dataset.csv                      # Mock dataset of social media engagement
    🗋   generate_dataset.py              # Python script to generate the dataset
    🗁  Insta_Insightify_version_01      # Initial version of the analysis tool
@@ -109,4 +109,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ---
 
 ## 📧 **Contact**
-For questions or feedback, please reach out to the development team at [your email/contact info].
+For questions or feedback, please reach out to the discussions.
