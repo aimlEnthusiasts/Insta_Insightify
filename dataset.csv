@@ -1,0 +1,1001 @@
+,post_id,post_type,likes,shares,comments
+0,post_4786,Carousel,802,37,43
+1,post_9036,Static Image,731,435,55
+2,post_330,Carousel,397,392,147
+3,post_8448,Live Story,714,496,178
+4,post_7276,Story,358,372,18
+5,post_1171,Video Posts,34,393,29
+6,post_9020,Story,21,258,19
+7,post_9653,Story,181,96,104
+8,post_3779,Live Story,176,118,87
+9,post_8320,Video Posts,396,245,72
+10,post_831,Live Story,525,100,150
+11,post_9455,Reels,383,348,91
+12,post_7004,Carousel,402,22,95
+13,post_1480,Story,499,223,74
+14,post_8121,Video Posts,229,278,81
+15,post_1887,Static Image,425,282,25
+16,post_4510,Carousel,678,94,33
+17,post_8727,Story,752,318,153
+18,post_1177,Story,575,329,51
+19,post_2338,Video Posts,967,266,177
+20,post_8858,Carousel,661,264,194
+21,post_6582,Reels,994,273,95
+22,post_877,Reels,138,430,112
+23,post_4071,Reels,961,284,80
+24,post_8769,Story,560,213,24
+25,post_4647,Story,374,133,33
+26,post_5181,Video Posts,447,319,138
+27,post_1922,Carousel,371,454,187
+28,post_1767,Static Image,667,5,192
+29,post_6472,Video Posts,212,16,107
+30,post_6186,Live Story,282,54,142
+31,post_7426,Carousel,420,380,187
+32,post_3806,Carousel,702,39,108
+33,post_8023,Live Story,807,431,119
+34,post_5476,Static Image,845,224,84
+35,post_3098,Live Story,890,116,185
+36,post_8827,Video Posts,501,87,69
+37,post_8419,Reels,299,83,7
+38,post_5674,Live Story,524,40,56
+39,post_988,Static Image,742,15,185
+40,post_9609,Reels,837,169,173
+41,post_6162,Reels,204,175,40
+42,post_8334,Video Posts,957,462,72
+43,post_3096,Live Story,531,251,169
+44,post_8764,Static Image,80,75,8
+45,post_2044,Live Story,860,147,98
+46,post_7133,Carousel,546,75,32
+47,post_4717,Video Posts,139,335,166
+48,post_1448,Static Image,835,57,16
+49,post_522,Carousel,213,498,3
+50,post_7922,Story,159,93,62
+51,post_2812,Static Image,951,83,24
+52,post_9052,Static Image,814,216,125
+53,post_2381,Reels,528,331,30
+54,post_688,Story,24,124,94
+55,post_1114,Live Story,417,76,78
+56,post_6623,Static Image,978,292,147
+57,post_5163,Static Image,562,345,85
+58,post_2422,Static Image,785,403,191
+59,post_2732,Reels,709,276,193
+60,post_9256,Reels,269,368,148
+61,post_7868,Story,41,81,124
+62,post_2468,Static Image,82,32,169
+63,post_4881,Live Story,730,196,83
+64,post_8126,Video Posts,556,302,173
+65,post_6875,Story,127,371,87
+66,post_2277,Live Story,617,181,155
+67,post_1706,Live Story,346,236,200
+68,post_878,Story,201,402,112
+69,post_200,Reels,240,337,162
+70,post_868,Carousel,191,425,170
+71,post_5302,Reels,46,60,42
+72,post_3842,Live Story,788,442,114
+73,post_2635,Live Story,139,105,182
+74,post_4619,Story,24,393,34
+75,post_2642,Static Image,864,230,156
+76,post_9213,Static Image,482,455,74
+77,post_2560,Story,921,61,105
+78,post_7576,Reels,350,211,37
+79,post_5458,Static Image,297,415,120
+80,post_1801,Live Story,30,407,198
+81,post_6244,Story,102,336,179
+82,post_2145,Carousel,848,211,12
+83,post_1951,Live Story,99,167,104
+84,post_3937,Live Story,170,104,53
+85,post_3292,Reels,68,114,81
+86,post_4553,Story,726,121,181
+87,post_4412,Story,317,347,104
+88,post_1884,Reels,298,288,6
+89,post_4335,Static Image,385,440,35
+90,post_9108,Reels,36,74,32
+91,post_8839,Carousel,948,417,90
+92,post_2758,Static Image,752,313,194
+93,post_7945,Story,263,166,190
+94,post_3232,Carousel,811,333,169
+95,post_4119,Reels,159,341,64
+96,post_6762,Story,904,332,100
+97,post_310,Live Story,59,441,60
+98,post_4724,Reels,628,157,61
+99,post_6329,Video Posts,311,90,100
+100,post_1173,Video Posts,475,317,165
+101,post_7228,Live Story,516,90,119
+102,post_3119,Live Story,292,221,34
+103,post_9766,Carousel,460,225,159
+104,post_1077,Static Image,364,499,102
+105,post_3614,Video Posts,989,138,31
+106,post_191,Video Posts,843,211,52
+107,post_8475,Static Image,490,408,7
+108,post_2001,Video Posts,576,68,58
+109,post_3658,Video Posts,715,240,118
+110,post_9079,Reels,526,93,137
+111,post_693,Reels,696,291,34
+112,post_5418,Story,690,117,160
+113,post_531,Video Posts,573,234,200
+114,post_5236,Live Story,539,378,46
+115,post_8344,Video Posts,753,236,108
+116,post_6511,Video Posts,358,239,199
+117,post_2594,Static Image,909,298,100
+118,post_8067,Live Story,640,366,14
+119,post_630,Carousel,89,86,176
+120,post_9531,Live Story,675,363,104
+121,post_7064,Static Image,926,98,182
+122,post_728,Static Image,690,333,143
+123,post_5087,Reels,47,110,171
+124,post_8074,Live Story,396,190,197
+125,post_5226,Video Posts,417,124,171
+126,post_8445,Static Image,733,336,182
+127,post_878,Video Posts,501,412,26
+128,post_434,Story,604,216,185
+129,post_2511,Carousel,359,67,62
+130,post_1563,Video Posts,591,168,119
+131,post_4779,Video Posts,273,336,193
+132,post_6281,Live Story,489,70,134
+133,post_9770,Static Image,484,250,96
+134,post_9538,Carousel,663,231,14
+135,post_4063,Live Story,94,355,19
+136,post_9897,Static Image,982,91,106
+137,post_8379,Carousel,428,447,59
+138,post_2635,Static Image,48,91,31
+139,post_9218,Static Image,892,114,68
+140,post_3348,Static Image,220,63,67
+141,post_4105,Static Image,667,420,185
+142,post_7633,Story,399,178,36
+143,post_6705,Live Story,717,185,145
+144,post_9572,Story,333,187,41
+145,post_1548,Carousel,601,183,87
+146,post_5563,Static Image,708,319,65
+147,post_9419,Reels,725,294,198
+148,post_3096,Story,551,351,37
+149,post_6880,Carousel,765,245,20
+150,post_3729,Carousel,712,398,21
+151,post_3315,Static Image,550,189,23
+152,post_5027,Video Posts,967,186,110
+153,post_3995,Live Story,934,370,38
+154,post_419,Live Story,744,164,37
+155,post_898,Story,203,279,115
+156,post_270,Static Image,717,143,77
+157,post_8562,Carousel,1000,224,132
+158,post_5000,Reels,82,17,176
+159,post_5334,Static Image,331,333,36
+160,post_2605,Carousel,925,30,138
+161,post_5922,Carousel,373,305,35
+162,post_535,Live Story,477,239,195
+163,post_882,Static Image,81,349,182
+164,post_5960,Carousel,144,143,159
+165,post_1111,Carousel,437,474,200
+166,post_2219,Live Story,905,100,119
+167,post_3403,Static Image,142,220,92
+168,post_1660,Carousel,859,381,115
+169,post_4722,Reels,464,448,19
+170,post_4690,Reels,954,196,97
+171,post_1509,Static Image,628,227,40
+172,post_4011,Carousel,686,433,148
+173,post_4209,Live Story,622,396,19
+174,post_4063,Reels,459,494,97
+175,post_4652,Live Story,826,330,180
+176,post_3281,Story,538,457,50
+177,post_348,Live Story,976,28,192
+178,post_4556,Video Posts,739,82,177
+179,post_2635,Video Posts,799,420,113
+180,post_4154,Static Image,368,191,117
+181,post_8809,Reels,800,484,115
+182,post_1616,Reels,886,239,84
+183,post_7913,Static Image,60,198,10
+184,post_6522,Story,651,11,97
+185,post_7737,Static Image,604,343,154
+186,post_3946,Reels,577,483,88
+187,post_9205,Story,460,492,133
+188,post_8656,Live Story,555,328,85
+189,post_6180,Story,961,32,198
+190,post_7658,Live Story,865,201,179
+191,post_9924,Reels,275,123,6
+192,post_8516,Carousel,606,301,189
+193,post_5866,Static Image,426,175,135
+194,post_1658,Reels,414,51,36
+195,post_9664,Story,43,174,150
+196,post_8406,Static Image,825,377,159
+197,post_1886,Carousel,495,440,120
+198,post_2853,Live Story,518,408,23
+199,post_7905,Static Image,274,128,124
+200,post_7639,Live Story,425,494,149
+201,post_6721,Live Story,219,136,170
+202,post_3828,Carousel,748,441,187
+203,post_6154,Reels,222,282,169
+204,post_4785,Reels,810,159,104
+205,post_2145,Story,552,150,54
+206,post_852,Static Image,987,392,130
+207,post_1105,Static Image,349,333,159
+208,post_7501,Static Image,254,5,96
+209,post_5639,Static Image,427,416,166
+210,post_9039,Static Image,516,56,144
+211,post_9095,Live Story,687,382,10
+212,post_7667,Carousel,653,173,110
+213,post_7803,Story,130,38,161
+214,post_8371,Static Image,535,362,3
+215,post_6129,Reels,114,149,95
+216,post_1695,Carousel,561,343,199
+217,post_7464,Carousel,368,225,55
+218,post_4138,Carousel,985,196,55
+219,post_5435,Static Image,851,319,33
+220,post_7791,Video Posts,123,256,3
+221,post_683,Reels,961,296,8
+222,post_4931,Static Image,584,273,16
+223,post_2091,Reels,153,135,4
+224,post_1908,Static Image,218,313,37
+225,post_5923,Reels,953,243,35
+226,post_2486,Live Story,718,400,104
+227,post_6374,Reels,640,6,29
+228,post_9883,Static Image,366,306,183
+229,post_3409,Video Posts,240,256,27
+230,post_1027,Video Posts,868,118,7
+231,post_7537,Reels,236,15,33
+232,post_4057,Story,883,273,108
+233,post_4458,Reels,49,37,71
+234,post_8376,Reels,992,47,53
+235,post_7463,Live Story,117,351,21
+236,post_7583,Reels,510,93,82
+237,post_889,Video Posts,632,14,106
+238,post_1368,Reels,27,278,105
+239,post_2946,Static Image,511,83,119
+240,post_4414,Video Posts,21,41,188
+241,post_1060,Carousel,401,196,43
+242,post_7955,Live Story,516,193,170
+243,post_6444,Video Posts,397,153,109
+244,post_3359,Static Image,120,174,93
+245,post_3823,Live Story,498,21,72
+246,post_870,Static Image,592,102,19
+247,post_3698,Video Posts,981,420,146
+248,post_6411,Story,998,326,84
+249,post_537,Reels,146,299,162
+250,post_4440,Video Posts,450,380,166
+251,post_2296,Video Posts,727,368,124
+252,post_1258,Carousel,760,33,20
+253,post_8707,Story,153,111,102
+254,post_1859,Story,178,440,49
+255,post_2653,Carousel,441,230,10
+256,post_3082,Static Image,37,118,136
+257,post_6577,Reels,122,36,64
+258,post_6038,Story,253,420,54
+259,post_4087,Live Story,83,286,111
+260,post_6863,Reels,609,351,78
+261,post_3827,Carousel,785,208,158
+262,post_3022,Static Image,36,26,80
+263,post_5728,Static Image,457,478,62
+264,post_311,Carousel,335,287,192
+265,post_9104,Story,261,152,120
+266,post_4466,Story,491,53,78
+267,post_7408,Video Posts,986,391,41
+268,post_9335,Live Story,766,384,85
+269,post_1003,Reels,832,103,42
+270,post_3103,Video Posts,968,81,179
+271,post_4449,Reels,893,405,199
+272,post_8078,Video Posts,126,303,82
+273,post_9278,Carousel,918,233,191
+274,post_9930,Story,419,319,199
+275,post_9949,Video Posts,374,111,50
+276,post_1168,Story,456,321,183
+277,post_3523,Reels,379,170,172
+278,post_1821,Live Story,182,261,192
+279,post_4872,Reels,129,279,159
+280,post_7203,Carousel,612,212,64
+281,post_2501,Story,859,387,110
+282,post_1436,Carousel,167,475,128
+283,post_8170,Static Image,133,102,126
+284,post_5461,Carousel,768,323,46
+285,post_40,Reels,632,127,147
+286,post_1286,Carousel,395,475,133
+287,post_2484,Video Posts,159,19,42
+288,post_5228,Story,336,97,161
+289,post_3681,Story,254,170,160
+290,post_7400,Carousel,918,492,68
+291,post_3476,Reels,734,498,98
+292,post_1733,Video Posts,457,103,154
+293,post_7498,Reels,34,474,72
+294,post_6575,Reels,608,435,3
+295,post_8002,Live Story,255,497,77
+296,post_112,Static Image,558,286,30
+297,post_8769,Video Posts,282,256,190
+298,post_5298,Video Posts,797,9,107
+299,post_3956,Carousel,518,108,103
+300,post_9998,Story,673,5,42
+301,post_7649,Video Posts,512,336,149
+302,post_1763,Reels,272,258,124
+303,post_6507,Live Story,110,358,19
+304,post_4680,Video Posts,946,42,75
+305,post_2958,Static Image,174,142,72
+306,post_789,Video Posts,871,348,139
+307,post_2481,Carousel,298,28,117
+308,post_9733,Carousel,111,5,99
+309,post_1102,Static Image,756,407,191
+310,post_2672,Video Posts,144,370,142
+311,post_6767,Static Image,706,287,165
+312,post_3145,Live Story,451,107,57
+313,post_5098,Video Posts,673,95,128
+314,post_6821,Video Posts,75,497,48
+315,post_6115,Story,570,193,125
+316,post_5076,Static Image,771,195,51
+317,post_1540,Static Image,308,65,133
+318,post_2534,Story,158,109,44
+319,post_7213,Story,304,304,198
+320,post_1649,Static Image,109,293,117
+321,post_3688,Carousel,481,89,131
+322,post_7581,Carousel,569,12,28
+323,post_2598,Story,163,332,26
+324,post_1208,Static Image,479,327,38
+325,post_7324,Video Posts,125,192,120
+326,post_7463,Story,555,46,118
+327,post_6349,Live Story,892,216,171
+328,post_2411,Video Posts,638,52,81
+329,post_1695,Carousel,486,141,127
+330,post_2466,Carousel,77,83,128
+331,post_8882,Static Image,835,218,132
+332,post_2444,Story,918,218,46
+333,post_3650,Video Posts,30,286,143
+334,post_4702,Video Posts,865,171,83
+335,post_5032,Live Story,907,116,45
+336,post_3980,Video Posts,152,315,172
+337,post_7819,Video Posts,597,299,3
+338,post_2836,Carousel,251,46,197
+339,post_6505,Live Story,324,47,49
+340,post_4439,Static Image,298,443,114
+341,post_4290,Carousel,480,67,181
+342,post_4752,Static Image,420,29,44
+343,post_6591,Reels,223,442,113
+344,post_2261,Carousel,377,488,55
+345,post_8328,Video Posts,748,74,80
+346,post_1723,Video Posts,729,408,158
+347,post_6349,Carousel,42,498,34
+348,post_319,Carousel,901,132,135
+349,post_5887,Video Posts,476,104,51
+350,post_1668,Carousel,149,86,41
+351,post_1139,Carousel,789,200,174
+352,post_7112,Live Story,486,176,178
+353,post_7989,Carousel,587,382,134
+354,post_3411,Reels,615,428,57
+355,post_6667,Live Story,688,138,183
+356,post_5264,Video Posts,63,392,126
+357,post_1721,Live Story,920,205,97
+358,post_3233,Carousel,408,451,6
+359,post_9546,Carousel,735,398,132
+360,post_596,Carousel,527,25,113
+361,post_6111,Video Posts,978,245,125
+362,post_3234,Video Posts,664,51,87
+363,post_7957,Story,618,161,81
+364,post_6666,Live Story,371,437,31
+365,post_4140,Static Image,209,444,153
+366,post_3316,Reels,364,221,66
+367,post_6997,Reels,625,496,36
+368,post_6587,Carousel,23,385,107
+369,post_129,Live Story,779,476,171
+370,post_2070,Story,556,434,155
+371,post_4087,Live Story,390,98,114
+372,post_9697,Reels,530,120,140
+373,post_4234,Reels,429,465,44
+374,post_7418,Carousel,412,352,174
+375,post_7293,Live Story,692,343,180
+376,post_4041,Carousel,760,300,58
+377,post_3874,Video Posts,903,444,38
+378,post_3980,Live Story,662,255,120
+379,post_2653,Live Story,841,474,64
+380,post_7940,Story,748,310,164
+381,post_5417,Story,104,34,140
+382,post_3439,Carousel,443,6,120
+383,post_95,Live Story,992,182,65
+384,post_2533,Story,160,310,137
+385,post_1074,Live Story,844,499,110
+386,post_8959,Carousel,850,387,132
+387,post_7179,Static Image,978,342,24
+388,post_9962,Carousel,542,182,84
+389,post_2958,Static Image,322,108,114
+390,post_329,Video Posts,837,142,185
+391,post_5201,Story,978,167,183
+392,post_9592,Video Posts,925,495,155
+393,post_3918,Video Posts,449,224,173
+394,post_8520,Static Image,186,384,25
+395,post_8970,Story,520,156,8
+396,post_9148,Video Posts,552,208,6
+397,post_9529,Live Story,729,198,193
+398,post_4716,Video Posts,850,374,33
+399,post_9616,Live Story,929,450,12
+400,post_8559,Live Story,378,441,182
+401,post_7075,Story,383,205,152
+402,post_5029,Static Image,52,211,143
+403,post_5439,Video Posts,194,236,171
+404,post_3670,Reels,547,357,20
+405,post_4179,Video Posts,968,29,200
+406,post_8026,Static Image,35,135,110
+407,post_4173,Reels,171,421,152
+408,post_8087,Video Posts,492,295,5
+409,post_343,Carousel,215,288,101
+410,post_2739,Story,610,20,124
+411,post_946,Live Story,739,319,11
+412,post_2418,Reels,934,292,161
+413,post_4260,Carousel,684,406,122
+414,post_4511,Carousel,329,117,43
+415,post_4409,Video Posts,205,272,91
+416,post_5342,Reels,803,357,140
+417,post_3146,Static Image,748,7,142
+418,post_2632,Video Posts,136,416,19
+419,post_5121,Video Posts,985,37,70
+420,post_3034,Static Image,382,378,110
+421,post_4312,Carousel,821,493,116
+422,post_2243,Static Image,77,262,9
+423,post_2332,Story,778,211,158
+424,post_5764,Video Posts,659,316,11
+425,post_3158,Reels,323,67,23
+426,post_2858,Reels,63,362,147
+427,post_6983,Reels,121,113,59
+428,post_130,Video Posts,836,201,18
+429,post_602,Story,251,343,124
+430,post_5321,Reels,968,307,175
+431,post_1970,Story,70,54,156
+432,post_2414,Story,994,344,101
+433,post_3975,Live Story,159,178,66
+434,post_9193,Story,607,144,98
+435,post_4411,Story,462,185,41
+436,post_4355,Carousel,58,18,55
+437,post_1570,Video Posts,417,158,58
+438,post_9717,Static Image,292,58,113
+439,post_438,Reels,218,179,3
+440,post_8234,Reels,996,258,165
+441,post_8504,Video Posts,201,97,125
+442,post_6729,Static Image,814,109,196
+443,post_7554,Reels,665,333,160
+444,post_1573,Live Story,959,225,79
+445,post_7125,Story,191,180,94
+446,post_4312,Static Image,398,261,179
+447,post_8334,Live Story,606,427,13
+448,post_1980,Story,407,477,69
+449,post_3207,Carousel,981,313,183
+450,post_7350,Static Image,819,55,77
+451,post_4238,Carousel,738,219,171
+452,post_8882,Static Image,812,436,33
+453,post_2913,Story,175,347,135
+454,post_8139,Video Posts,590,359,51
+455,post_4817,Video Posts,956,51,189
+456,post_8751,Carousel,145,21,97
+457,post_2887,Static Image,237,493,172
+458,post_4047,Carousel,588,302,200
+459,post_4692,Live Story,935,94,35
+460,post_7805,Story,687,83,60
+461,post_3885,Carousel,758,420,184
+462,post_3693,Carousel,75,40,130
+463,post_4253,Carousel,236,112,113
+464,post_2157,Live Story,632,405,84
+465,post_9664,Reels,906,159,188
+466,post_5008,Live Story,366,263,160
+467,post_9939,Live Story,67,364,143
+468,post_8594,Story,441,38,144
+469,post_4681,Carousel,948,355,129
+470,post_7563,Carousel,16,218,149
+471,post_5494,Static Image,891,367,42
+472,post_2900,Carousel,380,364,17
+473,post_7023,Reels,120,44,2
+474,post_1398,Live Story,706,213,5
+475,post_6600,Video Posts,665,31,158
+476,post_6532,Video Posts,976,424,192
+477,post_6280,Video Posts,110,413,194
+478,post_8538,Static Image,129,488,183
+479,post_2241,Static Image,577,28,177
+480,post_7139,Video Posts,256,485,104
+481,post_9997,Story,403,245,121
+482,post_5178,Story,581,45,152
+483,post_3482,Video Posts,481,347,140
+484,post_6658,Reels,85,443,31
+485,post_3635,Video Posts,84,377,145
+486,post_6107,Live Story,56,69,89
+487,post_6448,Static Image,241,171,61
+488,post_1880,Story,270,386,25
+489,post_8026,Reels,851,376,118
+490,post_211,Static Image,930,197,114
+491,post_4943,Story,722,257,60
+492,post_5226,Live Story,454,98,90
+493,post_9529,Reels,125,335,80
+494,post_1910,Story,53,217,75
+495,post_8533,Static Image,561,117,89
+496,post_7978,Video Posts,474,440,45
+497,post_8973,Reels,641,167,36
+498,post_1807,Video Posts,862,462,154
+499,post_5642,Live Story,825,279,29
+500,post_8569,Carousel,416,33,98
+501,post_3609,Static Image,705,377,192
+502,post_1683,Story,321,386,12
+503,post_5695,Carousel,755,405,66
+504,post_6140,Story,491,58,114
+505,post_8254,Reels,477,374,156
+506,post_6925,Reels,172,7,39
+507,post_1044,Live Story,319,8,178
+508,post_7045,Carousel,764,229,43
+509,post_8853,Carousel,53,429,87
+510,post_1365,Static Image,120,205,20
+511,post_3497,Carousel,696,347,159
+512,post_4485,Reels,725,417,14
+513,post_994,Carousel,598,374,11
+514,post_9670,Live Story,346,209,152
+515,post_6726,Story,751,299,165
+516,post_9862,Carousel,995,481,193
+517,post_6831,Reels,773,224,52
+518,post_8316,Live Story,425,483,31
+519,post_2259,Reels,619,351,162
+520,post_3658,Video Posts,717,322,72
+521,post_3211,Reels,595,214,69
+522,post_3889,Reels,437,357,110
+523,post_2615,Video Posts,711,392,163
+524,post_1003,Live Story,482,50,133
+525,post_25,Story,939,152,60
+526,post_4543,Reels,526,154,116
+527,post_3630,Reels,924,255,131
+528,post_2903,Live Story,173,64,109
+529,post_8477,Reels,441,114,38
+530,post_4772,Video Posts,906,180,22
+531,post_6027,Static Image,287,67,29
+532,post_2180,Story,147,195,186
+533,post_9813,Carousel,474,256,38
+534,post_7176,Reels,106,88,50
+535,post_5391,Video Posts,997,470,25
+536,post_1464,Video Posts,613,45,96
+537,post_3677,Video Posts,263,395,196
+538,post_2785,Reels,776,326,41
+539,post_3801,Story,203,96,63
+540,post_6107,Static Image,241,413,61
+541,post_7141,Static Image,190,49,13
+542,post_5280,Carousel,206,97,190
+543,post_7737,Video Posts,72,129,4
+544,post_1996,Live Story,307,347,60
+545,post_7697,Story,65,349,113
+546,post_2238,Carousel,43,340,122
+547,post_5144,Static Image,606,34,142
+548,post_6000,Static Image,886,371,132
+549,post_8981,Story,120,79,75
+550,post_5786,Live Story,697,484,66
+551,post_4224,Static Image,70,452,180
+552,post_4941,Reels,773,330,20
+553,post_3753,Carousel,23,294,83
+554,post_2655,Reels,855,79,122
+555,post_7535,Story,998,264,149
+556,post_8680,Live Story,891,245,155
+557,post_9873,Static Image,958,411,15
+558,post_6237,Static Image,430,479,137
+559,post_5551,Video Posts,392,453,126
+560,post_8068,Reels,866,64,140
+561,post_8920,Story,539,442,160
+562,post_1858,Static Image,123,238,28
+563,post_119,Live Story,308,401,152
+564,post_3974,Reels,285,122,135
+565,post_9441,Live Story,441,40,128
+566,post_27,Story,657,378,34
+567,post_8265,Static Image,969,498,153
+568,post_8721,Reels,51,231,149
+569,post_1145,Reels,794,338,82
+570,post_8173,Static Image,600,227,60
+571,post_8720,Story,235,264,193
+572,post_8452,Static Image,68,338,144
+573,post_9846,Reels,709,41,91
+574,post_7764,Video Posts,839,186,44
+575,post_2325,Live Story,344,183,38
+576,post_9278,Reels,755,281,157
+577,post_1280,Video Posts,258,418,60
+578,post_6716,Reels,283,177,50
+579,post_4302,Live Story,388,420,167
+580,post_8023,Carousel,959,296,146
+581,post_849,Story,585,9,162
+582,post_7397,Live Story,368,446,39
+583,post_2116,Carousel,829,394,151
+584,post_2071,Story,848,323,156
+585,post_8601,Story,976,100,174
+586,post_1271,Live Story,350,67,18
+587,post_109,Live Story,621,318,130
+588,post_9912,Video Posts,769,407,89
+589,post_7914,Static Image,251,332,97
+590,post_7206,Carousel,946,241,130
+591,post_1390,Story,316,142,156
+592,post_5061,Video Posts,961,28,52
+593,post_7273,Story,375,479,82
+594,post_7248,Live Story,323,320,45
+595,post_5978,Video Posts,626,78,164
+596,post_7590,Carousel,983,136,20
+597,post_687,Video Posts,771,441,167
+598,post_3655,Carousel,671,180,165
+599,post_6997,Live Story,567,419,93
+600,post_9687,Live Story,439,218,3
+601,post_6343,Reels,373,462,103
+602,post_3895,Story,844,267,96
+603,post_4994,Story,327,56,183
+604,post_977,Reels,191,104,192
+605,post_9718,Live Story,736,55,26
+606,post_5184,Video Posts,82,230,65
+607,post_5525,Live Story,764,126,76
+608,post_2225,Live Story,16,228,147
+609,post_8765,Static Image,416,385,97
+610,post_2495,Video Posts,258,54,64
+611,post_5145,Reels,985,147,126
+612,post_713,Story,660,413,142
+613,post_6822,Static Image,790,432,100
+614,post_6455,Live Story,12,388,106
+615,post_5155,Video Posts,719,44,92
+616,post_2463,Story,632,464,18
+617,post_7177,Live Story,709,41,119
+618,post_6401,Carousel,304,201,4
+619,post_1249,Video Posts,661,286,96
+620,post_7876,Carousel,465,365,141
+621,post_7248,Live Story,811,470,12
+622,post_6593,Carousel,875,176,67
+623,post_6703,Carousel,169,236,76
+624,post_3487,Static Image,682,30,34
+625,post_3554,Reels,450,187,96
+626,post_7830,Carousel,684,441,102
+627,post_8974,Story,172,299,148
+628,post_6954,Static Image,627,150,196
+629,post_8287,Carousel,432,259,108
+630,post_1423,Reels,196,125,28
+631,post_830,Reels,234,119,200
+632,post_5681,Reels,266,262,28
+633,post_3047,Carousel,852,340,199
+634,post_373,Carousel,121,378,152
+635,post_2985,Story,807,287,146
+636,post_3722,Live Story,365,262,16
+637,post_985,Live Story,67,344,159
+638,post_1312,Carousel,253,294,186
+639,post_8351,Reels,119,446,6
+640,post_2388,Reels,592,62,26
+641,post_903,Carousel,151,371,104
+642,post_1886,Live Story,539,459,118
+643,post_809,Reels,987,413,141
+644,post_2600,Story,479,422,48
+645,post_4405,Static Image,28,437,72
+646,post_9449,Story,156,29,34
+647,post_5560,Reels,980,445,128
+648,post_4615,Reels,843,439,60
+649,post_57,Story,241,409,76
+650,post_4574,Video Posts,758,128,57
+651,post_2422,Static Image,777,84,116
+652,post_6254,Story,729,417,148
+653,post_8741,Story,966,191,189
+654,post_5687,Static Image,60,55,143
+655,post_7415,Video Posts,612,345,114
+656,post_4705,Carousel,954,212,104
+657,post_5624,Reels,985,355,109
+658,post_1566,Video Posts,362,161,48
+659,post_7089,Static Image,264,406,87
+660,post_9768,Static Image,765,378,192
+661,post_8373,Story,678,222,146
+662,post_6606,Story,928,364,106
+663,post_6631,Static Image,601,430,71
+664,post_156,Static Image,241,191,151
+665,post_7883,Video Posts,711,403,42
+666,post_588,Carousel,665,205,161
+667,post_2717,Live Story,241,57,110
+668,post_1286,Static Image,152,159,30
+669,post_775,Static Image,881,32,7
+670,post_4023,Video Posts,282,80,123
+671,post_924,Carousel,760,256,83
+672,post_3811,Live Story,775,481,131
+673,post_681,Story,48,143,24
+674,post_5869,Story,286,318,34
+675,post_6748,Video Posts,713,172,86
+676,post_3445,Carousel,518,370,49
+677,post_3096,Story,345,375,36
+678,post_9272,Live Story,558,418,173
+679,post_9460,Carousel,794,283,124
+680,post_3336,Story,232,300,101
+681,post_7789,Carousel,468,444,82
+682,post_7440,Story,480,173,30
+683,post_5741,Story,335,423,145
+684,post_8032,Carousel,455,461,4
+685,post_9873,Carousel,223,284,115
+686,post_6226,Carousel,191,261,120
+687,post_2879,Story,560,392,66
+688,post_9998,Static Image,705,471,99
+689,post_6121,Reels,144,455,63
+690,post_1956,Carousel,111,327,149
+691,post_1769,Story,297,166,89
+692,post_635,Carousel,141,27,20
+693,post_5777,Story,787,314,15
+694,post_9205,Live Story,469,331,163
+695,post_4971,Video Posts,977,170,86
+696,post_4256,Live Story,228,46,119
+697,post_7534,Static Image,500,388,138
+698,post_9547,Reels,520,214,16
+699,post_6574,Live Story,396,195,98
+700,post_7919,Story,764,335,96
+701,post_5314,Static Image,740,201,165
+702,post_6927,Video Posts,286,351,49
+703,post_4484,Live Story,136,85,132
+704,post_340,Story,987,185,51
+705,post_6767,Reels,660,423,140
+706,post_3567,Static Image,142,358,58
+707,post_4739,Video Posts,534,324,131
+708,post_9378,Reels,950,427,168
+709,post_7998,Carousel,910,470,75
+710,post_4197,Story,713,460,166
+711,post_2847,Reels,499,348,186
+712,post_7033,Static Image,24,283,123
+713,post_3544,Live Story,945,442,191
+714,post_9062,Reels,75,425,129
+715,post_6879,Static Image,840,37,101
+716,post_53,Reels,526,37,64
+717,post_7424,Live Story,553,291,183
+718,post_3306,Story,190,475,79
+719,post_691,Video Posts,712,359,161
+720,post_8710,Story,177,196,144
+721,post_6405,Carousel,816,81,145
+722,post_901,Story,285,122,88
+723,post_6257,Story,806,103,23
+724,post_5131,Live Story,280,38,89
+725,post_7154,Story,491,224,116
+726,post_499,Video Posts,312,375,176
+727,post_1997,Live Story,772,87,26
+728,post_5563,Live Story,852,13,137
+729,post_1833,Static Image,243,257,148
+730,post_8122,Reels,624,418,161
+731,post_9808,Live Story,728,337,180
+732,post_9821,Reels,774,409,117
+733,post_4383,Story,511,129,55
+734,post_1874,Carousel,865,265,107
+735,post_3435,Reels,280,479,88
+736,post_6012,Video Posts,63,71,158
+737,post_5121,Carousel,530,286,125
+738,post_2891,Reels,293,314,86
+739,post_1035,Live Story,901,380,97
+740,post_8656,Reels,693,289,119
+741,post_4823,Story,892,245,24
+742,post_7064,Video Posts,662,453,189
+743,post_9877,Story,34,95,176
+744,post_648,Video Posts,405,432,165
+745,post_8567,Carousel,538,289,158
+746,post_6843,Reels,876,205,49
+747,post_7007,Carousel,80,293,184
+748,post_2906,Reels,811,356,3
+749,post_3660,Carousel,351,467,175
+750,post_2526,Story,293,115,19
+751,post_1863,Static Image,328,335,188
+752,post_5226,Reels,334,348,126
+753,post_5811,Carousel,405,423,79
+754,post_8823,Carousel,19,271,2
+755,post_1383,Carousel,61,29,179
+756,post_3936,Static Image,451,13,174
+757,post_710,Story,397,76,196
+758,post_6242,Static Image,310,274,190
+759,post_219,Live Story,65,271,34
+760,post_6509,Carousel,157,399,160
+761,post_9077,Reels,26,219,83
+762,post_7693,Live Story,944,304,152
+763,post_3163,Reels,725,438,73
+764,post_2993,Carousel,109,344,177
+765,post_2218,Video Posts,724,5,7
+766,post_9121,Static Image,875,346,2
+767,post_3181,Static Image,657,12,167
+768,post_8408,Reels,211,436,83
+769,post_9589,Story,62,389,42
+770,post_8223,Story,251,468,72
+771,post_9437,Static Image,874,487,27
+772,post_7365,Story,510,340,25
+773,post_1244,Video Posts,604,141,90
+774,post_8904,Video Posts,177,105,193
+775,post_9134,Reels,878,366,56
+776,post_7380,Live Story,630,77,29
+777,post_7060,Reels,909,449,14
+778,post_6213,Carousel,926,77,69
+779,post_859,Static Image,263,7,185
+780,post_4945,Static Image,992,132,148
+781,post_1533,Static Image,27,112,149
+782,post_4762,Live Story,633,121,187
+783,post_889,Video Posts,137,427,4
+784,post_4893,Reels,812,270,88
+785,post_3767,Carousel,306,367,172
+786,post_8120,Static Image,329,19,103
+787,post_9010,Carousel,323,46,116
+788,post_6082,Static Image,202,252,104
+789,post_3128,Live Story,370,238,24
+790,post_2146,Static Image,569,404,183
+791,post_1067,Story,719,472,26
+792,post_8701,Reels,876,13,125
+793,post_9690,Video Posts,387,408,96
+794,post_5029,Live Story,104,83,179
+795,post_4627,Static Image,60,420,56
+796,post_6543,Live Story,36,18,19
+797,post_5168,Carousel,603,437,174
+798,post_7340,Live Story,967,442,134
+799,post_2702,Story,316,234,48
+800,post_8206,Story,262,432,60
+801,post_7470,Static Image,679,137,108
+802,post_7766,Static Image,903,463,60
+803,post_3682,Static Image,492,242,30
+804,post_543,Carousel,291,458,110
+805,post_8575,Story,549,116,5
+806,post_8789,Reels,382,128,71
+807,post_3277,Video Posts,936,230,129
+808,post_6142,Story,983,198,102
+809,post_9240,Story,474,313,13
+810,post_9719,Carousel,161,454,63
+811,post_7051,Carousel,968,213,85
+812,post_2173,Reels,514,276,126
+813,post_7679,Story,361,212,117
+814,post_3169,Static Image,379,251,74
+815,post_5023,Reels,601,21,90
+816,post_4981,Story,600,99,48
+817,post_6891,Static Image,208,382,139
+818,post_6904,Video Posts,887,396,93
+819,post_4287,Video Posts,897,259,185
+820,post_7503,Reels,684,390,102
+821,post_3714,Reels,759,401,143
+822,post_9378,Static Image,323,230,57
+823,post_2481,Live Story,439,409,156
+824,post_7390,Live Story,539,283,33
+825,post_5296,Live Story,334,212,191
+826,post_3123,Live Story,652,279,173
+827,post_6029,Story,850,94,188
+828,post_770,Live Story,356,336,195
+829,post_6036,Story,247,50,119
+830,post_4240,Video Posts,108,495,69
+831,post_6275,Carousel,388,139,168
+832,post_3658,Static Image,64,218,93
+833,post_7235,Static Image,775,253,179
+834,post_9290,Live Story,210,469,13
+835,post_2799,Static Image,826,288,48
+836,post_3234,Story,232,319,150
+837,post_8176,Live Story,972,436,156
+838,post_1578,Live Story,56,155,142
+839,post_7408,Story,375,301,120
+840,post_9740,Video Posts,93,31,141
+841,post_7110,Story,31,139,124
+842,post_693,Carousel,909,260,38
+843,post_2638,Video Posts,731,92,94
+844,post_9011,Carousel,512,149,16
+845,post_9202,Story,183,367,12
+846,post_5627,Story,78,482,142
+847,post_3538,Carousel,500,217,164
+848,post_6229,Live Story,139,329,190
+849,post_1570,Live Story,963,175,153
+850,post_5432,Reels,845,446,47
+851,post_5049,Static Image,697,276,175
+852,post_6061,Static Image,237,314,10
+853,post_8091,Reels,880,269,44
+854,post_7528,Story,31,237,191
+855,post_486,Carousel,683,71,187
+856,post_2741,Live Story,371,38,86
+857,post_5357,Video Posts,607,122,79
+858,post_4960,Live Story,487,266,120
+859,post_9190,Video Posts,754,220,199
+860,post_1656,Story,973,193,60
+861,post_8910,Carousel,35,304,90
+862,post_417,Reels,218,443,122
+863,post_7988,Carousel,613,462,117
+864,post_6775,Story,507,417,41
+865,post_1564,Static Image,183,68,70
+866,post_8331,Video Posts,206,196,5
+867,post_1275,Story,477,18,101
+868,post_2424,Live Story,717,230,36
+869,post_4026,Carousel,685,80,44
+870,post_357,Live Story,335,499,133
+871,post_5232,Video Posts,52,417,148
+872,post_6322,Live Story,387,239,164
+873,post_2764,Carousel,811,330,158
+874,post_1869,Carousel,993,350,182
+875,post_5567,Carousel,154,74,165
+876,post_2180,Story,916,156,6
+877,post_5073,Reels,953,130,185
+878,post_7953,Live Story,997,304,72
+879,post_7905,Static Image,11,51,4
+880,post_3937,Live Story,577,428,179
+881,post_5329,Story,594,163,144
+882,post_2105,Reels,826,493,136
+883,post_2451,Reels,659,352,94
+884,post_6246,Live Story,996,492,159
+885,post_3295,Video Posts,901,157,89
+886,post_9212,Carousel,767,65,101
+887,post_3482,Reels,307,204,182
+888,post_5203,Carousel,953,288,91
+889,post_7126,Reels,537,166,90
+890,post_1840,Carousel,820,478,131
+891,post_3324,Reels,291,414,117
+892,post_9692,Static Image,39,33,184
+893,post_2384,Video Posts,873,491,115
+894,post_7611,Story,738,57,116
+895,post_3325,Reels,54,388,105
+896,post_4495,Reels,504,178,160
+897,post_1527,Carousel,284,180,72
+898,post_9774,Reels,351,482,124
+899,post_8750,Video Posts,790,362,83
+900,post_1841,Video Posts,427,329,33
+901,post_4295,Video Posts,714,180,132
+902,post_6607,Story,84,365,198
+903,post_5174,Live Story,599,371,13
+904,post_7054,Video Posts,284,406,79
+905,post_9708,Static Image,561,264,113
+906,post_7732,Reels,103,161,84
+907,post_3859,Video Posts,416,117,51
+908,post_5711,Story,438,453,139
+909,post_7464,Story,452,409,101
+910,post_757,Carousel,778,298,186
+911,post_5892,Reels,118,374,69
+912,post_3172,Carousel,879,394,194
+913,post_9493,Static Image,293,63,111
+914,post_8864,Reels,170,347,17
+915,post_3826,Live Story,884,230,33
+916,post_1103,Static Image,132,173,46
+917,post_6967,Carousel,122,291,101
+918,post_5570,Reels,990,424,200
+919,post_3803,Carousel,656,92,160
+920,post_1224,Static Image,328,466,99
+921,post_4449,Video Posts,125,211,177
+922,post_7465,Live Story,870,243,101
+923,post_4132,Video Posts,420,460,175
+924,post_2506,Reels,707,373,20
+925,post_8924,Live Story,527,83,43
+926,post_1596,Video Posts,907,128,101
+927,post_72,Carousel,351,25,143
+928,post_3146,Story,825,500,35
+929,post_4103,Video Posts,899,135,143
+930,post_2839,Carousel,567,241,16
+931,post_7952,Live Story,836,27,171
+932,post_1798,Live Story,474,373,61
+933,post_3106,Static Image,634,424,37
+934,post_8266,Carousel,250,107,85
+935,post_7405,Reels,954,165,13
+936,post_7238,Live Story,988,349,112
+937,post_8251,Static Image,263,218,93
+938,post_3305,Video Posts,609,491,50
+939,post_6940,Video Posts,957,480,198
+940,post_8466,Carousel,86,349,192
+941,post_1659,Static Image,536,195,51
+942,post_8178,Carousel,54,134,115
+943,post_5295,Story,129,398,69
+944,post_578,Carousel,356,62,47
+945,post_9702,Carousel,82,190,103
+946,post_2849,Reels,125,444,104
+947,post_8040,Carousel,595,205,83
+948,post_403,Reels,796,133,31
+949,post_7787,Carousel,670,480,3
+950,post_1803,Carousel,391,207,81
+951,post_3447,Reels,857,287,136
+952,post_3600,Reels,962,377,125
+953,post_4185,Video Posts,276,269,86
+954,post_9699,Story,350,477,16
+955,post_2372,Reels,555,448,8
+956,post_337,Carousel,765,301,151
+957,post_8821,Story,648,420,69
+958,post_9918,Reels,951,307,107
+959,post_5590,Story,166,50,34
+960,post_2885,Video Posts,612,150,108
+961,post_7848,Static Image,948,436,66
+962,post_9894,Story,684,179,104
+963,post_7064,Live Story,695,144,12
+964,post_9913,Live Story,452,9,85
+965,post_4797,Story,271,113,42
+966,post_7501,Static Image,746,57,34
+967,post_8861,Reels,373,37,110
+968,post_2370,Reels,750,228,148
+969,post_8609,Reels,720,314,120
+970,post_1318,Carousel,805,469,2
+971,post_1867,Carousel,44,345,175
+972,post_2199,Video Posts,119,371,179
+973,post_2803,Live Story,975,440,68
+974,post_1521,Reels,12,95,172
+975,post_2328,Reels,541,344,167
+976,post_757,Static Image,620,498,123
+977,post_6324,Reels,624,45,188
+978,post_2860,Reels,582,328,23
+979,post_7164,Static Image,986,28,47
+980,post_4266,Live Story,367,118,160
+981,post_2125,Story,131,488,172
+982,post_542,Static Image,806,389,33
+983,post_5921,Carousel,279,347,19
+984,post_1331,Video Posts,952,295,54
+985,post_5431,Video Posts,461,443,65
+986,post_5472,Story,881,440,163
+987,post_7344,Carousel,65,282,68
+988,post_8534,Carousel,270,51,49
+989,post_2759,Static Image,601,12,5
+990,post_3122,Live Story,671,442,157
+991,post_2402,Video Posts,918,288,180
+992,post_5785,Story,774,335,195
+993,post_5405,Live Story,434,65,188
+994,post_3248,Carousel,986,400,153
+995,post_8298,Video Posts,973,214,63
+996,post_5414,Video Posts,473,167,149
+997,post_6699,Story,85,449,111
+998,post_2463,Carousel,859,473,159
+999,post_7302,Static Image,102,10,199
