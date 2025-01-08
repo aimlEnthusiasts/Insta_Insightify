@@ -45,14 +45,13 @@ The tool includes:
 5. **Modular Versions**:
    - **Version 01**: Basic functionality.
    - **Version 02**: Enhanced features and improved analysis.
-
+  
 ---
 
-## 🚀 **How to Run**
+## 🚀 **How to Run Insta Insightify Tool**
 ### Prerequisites
 - Python 3.8+
 - DataStax Astra DB account
-- Langflow installed ([Langflow Website](https://www.langflow.org/))
 
 ### Steps
 1. Clone the repository:
@@ -66,12 +65,42 @@ The tool includes:
    pip install -r requirements.txt
    ```
 
-3. Generate the dataset:
+3. Run the Command:
    ```bash
-   python generate_dataset.py
+   streamlit run .\Insta_Insightify_ool.py
    ```
 
-4. Set up DataStax Astra DB and upload the dataset.
+4. Testing tool:
+   - Case 1 (Post Type in Input):
+        e.g: Reels
+        output: Returns detailed Insights.
+        e.g: Carousal
+        output: Returns detailed Insights.
+     
+   - Case 2 (Missing Post Type in Input):
+        e.g: Hello
+        output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type
+        e.g: How are you
+        output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type
+
+---
+
+## 🚀 **How to Run Insta Insightify Tool**
+### Prerequisites
+- Python 3.8+
+- DataStax Astra DB account
+
+### Steps
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TeamBroC0de/Insta_Insightify.git
+   cd Insta_Insightify
+   ```
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 5. Run Langflow to create workflows:
    - Follow instructions on [Langflow](https://www.langflow.org/).
