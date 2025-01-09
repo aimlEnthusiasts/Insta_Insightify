@@ -15,14 +15,15 @@ The tool includes:
 ## 🗂 **Project Structure**
 ```
 🗁 Insta Insightify
-   🗋   dataset.csv                      # Mock dataset of social media engagement
-   🗋   generate_dataset.py              # Python script to generate the dataset
-   🗁  Insta_Insightify_version_01      # Initial version of the analysis tool
-   🗁  Insta_Insightify_version_02      # Enhanced version of the analysis tool
+   🗋   Insta_Insightify_tool.py         # Main python script of tool.
+   🗁  Insta_Insightify_version_01      # Initial version of the analysis tool.
+   🗁  Insta_Insightify_version_02      # Enhanced version of the analysis tool.
    🗁  Insta_Insightify_version_03      # Upgraded version with edge case handling.
-   🗁  website                          # Code for the website interface
-   🗋   README.md                        # Project documentation
-   🗋   requirements.txt                 # Python dependencies
+   🗋   README.md                        # Project documentation.
+   🗋   config.txt                       # configuration credentials.
+   🗋   dataset.csv                      # Mock dataset of social media engagement.
+   🗋   dataset_gen.py                   # Python script to generate the dataset.
+   🗋   requirements.txt                 # Python dependencies.
 ```
 
 ---
@@ -67,7 +68,7 @@ The tool includes:
 
 3. Run the Command:
    ```bash
-   streamlit run .\Insta_Insightify_ool.py
+   streamlit run .\Insta_Insightify_tool.py
    ```
 
 4. Testing tool:
@@ -85,10 +86,7 @@ The tool includes:
 
 ---
 
-## 🚀 **How to Run Insta Insightify Tool**
-### Prerequisites
-- Python 3.8+
-- DataStax Astra DB account
+## 🚀 **How to Run Tool on Langflow workflow**
 
 ### Steps
 1. Clone the repository:
@@ -97,19 +95,23 @@ The tool includes:
    cd Insta_Insightify
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Open [Langflow](https://www.langflow.org/).
+   - Create blank workflow.
+   - Import "Insta_Insightify_version_02" or "Insta_Insightify_version_03"
+   - Give dataset.csv as input in workflow (Optional)
 
-5. Run Langflow to create workflows:
-   - Follow instructions on [Langflow](https://www.langflow.org/).
-
-6. Launch the website:
-   ```bash
-   cd website
-   python -m http.server
-   ```
+3. Testing tool:
+   - Case 1 (Post Type in Input):
+        e.g: Reels
+        output: Returns detailed Insights.
+        e.g: Carousal
+        output: Returns detailed Insights.
+     
+   - Case 2 (Missing Post Type in Input):
+        e.g: Hello
+        output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type
+        e.g: How are you
+        output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type
 
 ---
 
