@@ -46,6 +46,7 @@ The tool includes:
 5. **Modular Versions**:
    - **Version 01**: Basic functionality.
    - **Version 02**: Enhanced features and improved analysis.
+   - **Version 03**: Edge cases handled.
   
 ---
 
