@@ -15,15 +15,15 @@ The tool includes:
 ## 🗂 **Project Structure**
 ```
 🗁 Insta Insightify
-   🗋   Insta_Insightify_tool.py         # Main python script of tool.
-   🗁  Insta_Insightify_version_01      # Initial version of the analysis tool.
-   🗁  Insta_Insightify_version_02      # Enhanced version of the analysis tool.
-   🗁  Insta_Insightify_version_03      # Upgraded version with edge case handling.
-   🗋   README.md                        # Project documentation.
-   🗋   config.txt                       # configuration credentials.
-   🗋   dataset.csv                      # Mock dataset of social media engagement.
-   🗋   dataset_gen.py                   # Python script to generate the dataset.
-   🗋   requirements.txt                 # Python dependencies.
+   🗋   Insta_Insightify_tool.py             # Main python script of tool.
+   🗋  Insta_Insightify_version_01.json      # Initial version of the analysis tool.
+   🗋  Insta_Insightify_version_02.json      # Enhanced version of the analysis tool.
+   🗋  Insta_Insightify_version_03.json      # Upgraded version with edge case handling.
+   🗋   README.md                            # Project documentation.
+   🗋   config.txt                           # configuration credentials.
+   🗋   dataset.csv                          # Mock dataset of social media engagement.
+   🗋   dataset_gen.py                       # Python script to generate the dataset.
+   🗋   requirements.txt                     # Python dependencies.
 ```
 
 ---
