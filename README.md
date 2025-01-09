@@ -72,17 +72,17 @@ The tool includes:
    ```
 
 4. Testing tool:
-   - Case 1 (Post Type in Input):
-        e.g: Reels
-        output: Returns detailed Insights.
-        e.g: Carousal
-        output: Returns detailed Insights.
+   - Case 1 (Post Type in Input): <br>
+           e.g: Reels <br>
+           output: Returns detailed Insights.<br>
+           e.g: Carousal<br>
+           output: Returns detailed Insights.<br><br>
      
-   - Case 2 (Missing Post Type in Input):
-        e.g: Hello
-        output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type
-        e.g: How are you
-        output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type
+   - Case 2 (Missing Post Type in Input):<br>
+           e.g: Hello<br>
+           output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type<br>
+           e.g: How are you<br>
+           output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type<br><br>
 
 ---
 
@@ -100,18 +100,18 @@ The tool includes:
    - Import "Insta_Insightify_version_02" or "Insta_Insightify_version_03"
    - Give dataset.csv as input in workflow (Optional)
 
-3. Testing tool:
-   - Case 1 (Post Type in Input):
-        e.g: Reels
-        output: Returns detailed Insights.
-        e.g: Carousal
-        output: Returns detailed Insights.
+3.  Testing tool:
+   - Case 1 (Post Type in Input): <br>
+           e.g: Reels <br>
+           output: Returns detailed Insights.<br>
+           e.g: Carousal<br>
+           output: Returns detailed Insights.<br><br>
      
-   - Case 2 (Missing Post Type in Input):
-        e.g: Hello
-        output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type
-        e.g: How are you
-        output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type
+   - Case 2 (Missing Post Type in Input):<br>
+           e.g: Hello<br>
+           output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type<br>
+           e.g: How are you<br>
+           output: Error: Missing 'post_type' field in dataset. Please ensure all entries have a valid post type<br><br>
 
 ---
 
@@ -124,18 +124,6 @@ Example outputs from the tool:
 
 ## 🎥 **Demo Video**
 A video showcasing the tool's features is available [here](#).
-
----
-
-## 📝 **Submission Details**
-This project is part of the Level Supermind Hackathon. The complete submission includes:
-- GitHub repository with all code and documentation.
-- A demo video explaining the workflow and features.
-
----
-
-## 🤝 **Contributing**
-Contributions are welcome! Please fork the repository and submit a pull request for review.
 
 ---
 
