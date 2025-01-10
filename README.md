@@ -124,7 +124,7 @@ Example outputs from the tool:
 ---
 
 ## 🎥 **Demo Video**
-A video showcasing the tool's features is available [here](#).
+A video showcasing the tool's features is available [here](https://www.youtube.com/watch?v=PPokMwolnBo).
 
 ---
 
