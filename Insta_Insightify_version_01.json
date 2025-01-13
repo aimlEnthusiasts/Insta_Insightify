@@ -2443,7 +2443,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "google_api_key",
-                "value": "AIzaSyAxwnoH0GJcOJrSTmNankNFeoc1-WuZeE0",
+                "value": "",
                 "display_name": "Google API Key",
                 "advanced": false,
                 "input_types": [
@@ -2717,7 +2717,7 @@
                 "placeholder": "",
                 "show": true,
                 "name": "api_key",
-                "value": "AIzaSyAxwnoH0GJcOJrSTmNankNFeoc1-WuZeE0",
+                "value": "",
                 "display_name": "API Key",
                 "advanced": false,
                 "input_types": [
