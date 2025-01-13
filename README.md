@@ -10,6 +10,7 @@ The tool includes:
 - Integration with DataStax Astra DB for efficient data storage and retrieval.
 - Website code for visualization and interaction.
 
+*Note: Kindly add your api key in flow
 ---
 
 ## 🗂 **Project Structure**
